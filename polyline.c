@@ -165,4 +165,5 @@ int main(int argc, char const *argv[]) {
   
   //printf("%f\n", polygon_test->first->point.x);
   return 0;
+  
 }
