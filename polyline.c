@@ -163,7 +163,7 @@ int main(int argc, char const *argv[]) {
   printf("\nCarlo Morganti\nMatricola: 215606\n\n");
   poly_free(polygon_test);
   
-  //printf("%f\n", polygon_test->first->point.x);
+  printf("%f\n", polygon_test->first->point.x);
   return 0;
-  
+
 }
